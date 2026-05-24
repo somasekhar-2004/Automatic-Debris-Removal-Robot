@@ -24,7 +24,8 @@ Built using Raspberry Pi, Python and Computer Vision. The robot uses a camera to
 - Zero human intervention required
 
 ## Project Demo
-![Robot](robot.jpg)
+![Robot](IMG_6712.jpeg)
+
 
 ## Developer
 Soma Sekhar Vinnakota
